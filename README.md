@@ -1,2 +1,2 @@
 # JustinWebsite
-https://jwaii.github.io/JustinWebsite/
+https://jwaii.github.io/
